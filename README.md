@@ -1,1 +1,1 @@
-#AoC 2022 in Python
+AoC 2022 in Python
